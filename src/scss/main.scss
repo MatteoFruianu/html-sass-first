@@ -1,0 +1,17 @@
+
+// VAR
+
+$main-bg-color: lightcoral;
+
+$titles-col: blue;
+
+
+
+body {
+    background: $main-bg-color;
+}
+
+h2,
+h3 {
+    color: $titles-col;
+}
